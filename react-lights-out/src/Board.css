@@ -1,0 +1,21 @@
+.Board {
+  margin: 50px auto;
+}
+.winner {
+  margin: 50px auto;
+  background-color: steelblue;
+  width: 500px;
+  height: 100px;
+  border-radius: 25px;
+  padding: 50px;
+}
+
+.winner-congrats {
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.winner-countMsg {
+  color: white;
+}
